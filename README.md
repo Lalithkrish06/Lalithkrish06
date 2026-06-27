@@ -24,14 +24,32 @@
 
 ### 🎯 About Me
 
-I'm an **AI & Data Science undergraduate** building a strong foundation in machine learning, data engineering, and applied analytics. I enjoy taking projects from raw data to deployed, usable products — not just notebooks.
+Hi there! 👋 I'm an **AI & Data Science undergraduate** with a genuine passion for solving problems through data — and I'm actively looking for opportunities to bring that passion into a real, professional role.
 
-- 🔍 **Currently:** Sharpening skills in predictive modeling & ML deployment
-- 🧠 **Interested in:** Applied AI systems, model optimization, MLOps
-- 🛠️ **Comfortable with:** End-to-end pipeline — data preprocessing → modeling → dashboarding
-- 🎯 **Goal:** Internship/entry-level role in Data Science or ML Engineering
-- 📫 **Reach me:** lalithkrish2006@gmail.com
+- 🎓 Pursuing a degree in **AI & Data Science**, building a strong foundation in analytical thinking, statistics, and problem-solving
+- 💡 A fast learner and highly adaptable — comfortable picking up new tools, technologies, and domains quickly
+- 🛠️ Hands-on across the full data pipeline: **collection → cleaning → modeling → visualization → deployment**
+- 📊 Skilled at working with data to uncover patterns, trends, and insights that actually matter
+- 🤝 Strong communicator who can translate technical findings into **clear, business-friendly insights**
+- 🧩 Enjoy tackling ambiguous, real-world problems and turning them into structured, solvable tasks
+- 🌱 Constantly learning — currently leveling up in machine learning, AI tools, and data engineering practices
+- 🌍 Open to roles in **Data Science, Data Analytics, Machine Learning, Software Development**, or other tech/business-driven positions
+- 🚀 Driven by curiosity, consistency, and a genuine eagerness to grow and contribute from day one
+- 🤝 A reliable team player who values collaboration, feedback, and continuous improvement
+- 🎯 Looking for an opportunity where I can learn fast, contribute meaningfully, and grow long-term
 
+> 💬 *"I may be early in my career, but I bring curiosity, discipline, and a builder's mindset to every problem I take on."*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/📫%20Reach%20Me-lalithkrish2006@gmail.com-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+</p>
+
+<a href="mailto:lalithkrish2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/lalithkrish-data" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 ---
 
 ---
