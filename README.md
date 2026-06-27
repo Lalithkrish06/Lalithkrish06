@@ -34,38 +34,43 @@ I'm an **AI & Data Science undergraduate** building a strong foundation in machi
 
 ---
 
-### 🚀 Featured Projects
+---
 
-> Replace these with your real repos — recruiters click here first.
+### 📜 Certifications
 
 <table>
 <tr>
-<td width="50%">
-  <h4>📌 <a href="#">Project Name 1</a></h4>
-  <p>One-line outcome-focused description — e.g. "Predicted customer churn with 92% accuracy using XGBoost + Streamlit dashboard."</p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<td width="15%" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tata_logo.svg/200px-Tata_logo.svg.png" width="60"/>
 </td>
-<td width="50%">
-  <h4>📌 <a href="#">Project Name 2</a></h4>
-  <p>One-line outcome-focused description — e.g. "Built an image classifier with 95% test accuracy using CNNs in TensorFlow."</p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <h4>📌 <a href="#">Project Name 3</a></h4>
-  <p>One-line outcome-focused description — e.g. "Designed a SQL + Python ETL pipeline processing 1M+ records."</p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white"/>
-</td>
-<td width="50%">
-  <h4>📌 <a href="#">Project Name 4</a></h4>
-  <p>One-line outcome-focused description — e.g. "Interactive Figma-designed dashboard for sales analytics."</p>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<td width="85%">
+  <b>GenAI Powered Data Analytics Job Simulation</b> — Tata (via Forage)<br/>
+  <sub>Issued June 2026</sub><br/>
+  ✅ Exploratory data analysis & risk profiling &nbsp;|&nbsp; ✅ Predicting delinquency with AI<br/>
+  ✅ Business reporting & data storytelling &nbsp;|&nbsp; ✅ AI-driven collections strategy
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/></a>
 </td>
 </tr>
 </table>
 
-📌 *Pin your best 4–6 repos on your GitHub profile too — go to your profile → Customize your pins.*
+<!-- Add more certifications below using the same row format -->
+<!--
+<table>
+<tr>
+<td width="15%" align="center">
+  <img src="LOGO_URL" width="60"/>
+</td>
+<td width="85%">
+  <b>Certification Name</b> — Issuing Org<br/>
+  <sub>Issued Month Year</sub><br/>
+  ✅ Skill 1 &nbsp;|&nbsp; ✅ Skill 2
+  <br/>
+  <a href="#"><img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+-->
 
 ---
 
