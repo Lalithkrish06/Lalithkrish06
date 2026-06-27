@@ -50,7 +50,6 @@ Hi there! 👋 I'm an **AI & Data Science undergraduate** with a genuine passion
 <a href="https://linkedin.com/in/lalithkrish-data" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
----
 
 ---
 
