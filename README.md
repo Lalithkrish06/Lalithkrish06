@@ -49,7 +49,7 @@ I'm an **AI & Data Science undergraduate** building a strong foundation in machi
   ✅ Exploratory data analysis & risk profiling &nbsp;|&nbsp; ✅ Predicting delinquency with AI<br/>
   ✅ Business reporting & data storytelling &nbsp;|&nbsp; ✅ AI-driven collections strategy
   <br/>
-  <a href="#"><img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/></a>
+  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_rajmKifLEbE9uyLGt_1782526948788_completion_certificate.pdf"><img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/></a>
 </td>
 </tr>
 </table>
