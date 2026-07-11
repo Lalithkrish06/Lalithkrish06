@@ -39,12 +39,12 @@
 
 I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world data into clear, actionable insight. I'm actively looking for **internship and entry-level opportunities** in Data Science, Analytics, or Machine Learning.
 
-\`\`\`yaml
+```yaml
 role: AI & Data Science Undergraduate
 focus: [Machine Learning, Data Engineering, Analytics]
 status: Open to Internships & Entry-Level Roles
 philosophy: "Curiosity, discipline, and a builder's mindset"
-\`\`\`
+```
 
 - 🎓 Building a strong foundation in statistics, analytical thinking, and applied ML
 - 🛠️ Comfortable across the full data pipeline — **collection → cleaning → modeling → visualization → deployment**
@@ -124,7 +124,7 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
   <img src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
 
-<sub>⚙️ This animated snake needs a one-time GitHub Actions setup — see the workflow file below.</sub>
+<sub>⚙️ This animated snake needs a one-time GitHub Actions setup — see the workflow file provided separately.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
