@@ -8,9 +8,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+AI+Developer;Building+Real-World+AI+Projects;Open+to+Internships+%26+Entry-Level+Roles" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Lalithkrish06&label=Profile+Views&color=2E9EF7&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Lalithkrish06?label=Followers&style=for-the-badge&color=2E9EF7"/>
 
