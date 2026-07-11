@@ -39,12 +39,8 @@
 
 I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world data into clear, actionable insight. I'm actively looking for **internship and entry-level opportunities** in Data Science, Analytics, or Machine Learning.
 
-\`\`\`yaml
-role: AI & Data Science Undergraduate
-focus: [Machine Learning, Data Engineering, Analytics]
-status: Open to Internships & Entry-Level Roles
-philosophy: "Curiosity, discipline, and a builder's mindset"
-\`\`\`
+
+
 
 - 🎓 Building a strong foundation in statistics, analytical thinking, and applied ML
 - 🛠️ Comfortable across the full data pipeline — **collection → cleaning → modeling → visualization → deployment**
