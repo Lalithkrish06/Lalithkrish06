@@ -1,163 +1,95 @@
-<div align="center">
+# 🚀 Lalith Krish
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0B1F3A&height=200&section=header&text=Lalith%20Krish&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Undergraduate&descAlignY=55&descSize=18" width="100%"/>
+> **AI & Data Science Undergraduate** \| Machine Learning • Data
+> Analytics • GenAI
 
-<img src="./profile.webp" width="150" height="150" style="border-radius:50%;object-fit:cover;border:4px solid #2E9EF7;" alt="Lalith Krish"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Machine+Learning+%7C+Data+Engineering;Turning+Data+Into+Decisions;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Lalithkrish06&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Lalithkrish06?label=Followers&style=for-the-badge&color=2E9EF7" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge" />
+```{=html}
+<p align="center">
+```
+`<img src="./profile.webp" width="180" alt="Lalith Krish"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2E9EF7&height=220&section=header&text=Lalith%20Krish&fontSize=55&fontColor=ffffff&animation=fadeIn"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&width=700&lines=AI+%26+Data+Science;Machine+Learning;Data+Analytics;Open+to+Internships"/>`{=html}
+```{=html}
+</p>
+```
 
-<a href="https://lalithkportfolio.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="mailto:lalithkrish2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/lalithkrish-data" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="#"> <!-- replace # with your resume link -->
-  <img src="https://img.shields.io/badge/Resume-FFA116?style=for-the-badge&logo=readme&logoColor=white" />
-</a>
+------------------------------------------------------------------------
 
-</div>
+## 👨‍💻 About Me
 
-<br/>
+-   🎓 AI & Data Science Undergraduate
+-   🤖 Passionate about Machine Learning & Generative AI
+-   📊 Building real-world AI applications
+-   🌱 Currently learning Data Engineering & MLOps
+-   💼 Open to Internship & Entry-Level Opportunities
 
-## 🎯 About Me
+------------------------------------------------------------------------
 
-<table>
-<tr>
-<td width="100%">
+## 🚀 Featured Projects
 
-I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world data into clear, actionable insight. I'm actively looking for **internship and entry-level opportunities** in Data Science, Analytics, or Machine Learning.
+### 🚦 TrafficMind AI
 
-\`\`\`yaml
-role: AI & Data Science Undergraduate
-focus: [Machine Learning, Data Engineering, Analytics]
-status: Open to Internships & Entry-Level Roles
-philosophy: "Curiosity, discipline, and a builder's mindset"
-\`\`\`
+AI-powered traffic congestion prediction using LSTM, heatmaps, and
+interactive dashboards.
 
-- 🎓 Building a strong foundation in statistics, analytical thinking, and applied ML
-- 🛠️ Comfortable across the full data pipeline — **collection → cleaning → modeling → visualization → deployment**
-- 📊 Skilled at uncovering patterns and trends that translate into business decisions
-- 🤝 Strong communicator who bridges technical work and non-technical stakeholders
-- 🌱 Currently leveling up in machine learning, GenAI tools, and data engineering practices
-- 🌍 Open to roles in **Data Science · Data Analytics · Machine Learning · Software Development**
+### 🏥 MediCare
 
-</td>
-</tr>
-</table>
+Medical doubt solver built using Java, JSP, MySQL, JDBC and Tomcat.
 
-<br/>
+### 📄 AI Resume Analyzer
+
+Analyzes resumes using AI and provides improvement suggestions.
+
+------------------------------------------------------------------------
+
+## 🛠 Tech Stack
+
+Python • Java • SQL • MySQL • MongoDB
+
+Pandas • NumPy • TensorFlow • PyTorch • Matplotlib
+
+Git • GitHub • Figma
+
+------------------------------------------------------------------------
 
 ## 📜 Certifications
 
-<table>
-<tr>
-<td width="15%" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tata_logo.svg/200px-Tata_logo.svg.png" width="60"/>
-</td>
-<td width="85%">
-  <b>GenAI Powered Data Analytics Job Simulation</b> — Tata (via Forage)<br/>
-  <sub>Issued June 2026</sub><br/>
-  ✅ Exploratory data analysis & risk profiling &nbsp;|&nbsp; ✅ Predicting delinquency with AI<br/>
-  ✅ Business reporting & data storytelling &nbsp;|&nbsp; ✅ AI-driven collections strategy
-  <br/>
-  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_rajmKifLEbE9uyLGt_1782526948788_completion_certificate.pdf"><img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/></a>
-</td>
-</tr>
-</table>
+-   Tata GenAI Powered Data Analytics Job Simulation
+-   Google Cloud AI & Data Science Courses
+-   Business Analytics with Excel
 
-<br/>
+------------------------------------------------------------------------
 
-## 🧰 Tech Stack
+## 📈 GitHub Stats
 
-<table>
-<tr>
-<td valign="top" width="50%">
+``` md
+Replace USERNAME with Lalithkrish06
 
-**Languages & Querying**
+https://github-readme-stats.vercel.app/api?username=Lalithkrish06&show_icons=true&theme=radical
+https://github-readme-streak-stats.herokuapp.com/?user=Lalithkrish06&theme=radical
+https://github-readme-activity-graph.vercel.app/graph?username=Lalithkrish06&theme=react-dark
+```
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+------------------------------------------------------------------------
 
-**Databases & Tools**
+## 🌐 Connect
 
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+-   Portfolio: https://lalithkportfolio.netlify.app
+-   LinkedIn: https://linkedin.com/in/lalithkrish-data
+-   Email: lalithkrish2006@gmail.com
 
-</td>
-<td valign="top" width="50%">
+------------------------------------------------------------------------
 
-**ML / Data Science**
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lalithkrish06&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkrish06&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalithkrish06&theme=radical&hide_border=true" alt="streak stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithkrish06&theme=react-dark&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalithkrish06&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
-
-<br/>
-
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
-</p>
-
-<br/>
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-I'm actively looking for **internship and entry-level opportunities** in Data Science / Machine Learning. If you're hiring or just want to chat about AI — reach out!
-
-<a href="https://lalithkportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:lalithkrish2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lalithkrish-data"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-⭐ *Thanks for stopping by — feel free to explore my pinned repos below!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2E9EF7&height=100&section=footer" width="100%"/>
-
-</div>
+⭐ *Thanks for visiting my profile!*
