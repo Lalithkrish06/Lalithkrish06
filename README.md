@@ -39,12 +39,12 @@
 
 I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world data into clear, actionable insight. I'm actively looking for **internship and entry-level opportunities** in Data Science, Analytics, or Machine Learning.
 
-```yaml
+\`\`\`yaml
 role: AI & Data Science Undergraduate
 focus: [Machine Learning, Data Engineering, Analytics]
 status: Open to Internships & Entry-Level Roles
 philosophy: "Curiosity, discipline, and a builder's mindset"
-```
+\`\`\`
 
 - 🎓 Building a strong foundation in statistics, analytical thinking, and applied ML
 - 🛠️ Comfortable across the full data pipeline — **collection → cleaning → modeling → visualization → deployment**
@@ -56,6 +56,84 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
 </td>
 </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,pytorch,mongodb,figma,git,github&perline=10" />
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+<td valign="top" width="33%">
+
+**Data Science**
+
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+
+</td>
+<td valign="top" width="33%">
+
+**ML & Tools**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📌 Project Name
+Short one-line description of what it does and the problem it solves.
+
+`Python` `Pandas` `Scikit-learn`
+
+<a href="#"><img src="https://img.shields.io/badge/View%20Repo-2E9EF7?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+<td width="50%">
+
+### 📌 Project Name
+Short one-line description of what it does and the problem it solves.
+
+`TensorFlow` `Flask` `SQL`
+
+<a href="#"><img src="https://img.shields.io/badge/View%20Repo-2E9EF7?style=flat-square&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<sub>💡 Swap in your top 2–4 pinned repos here — link, stack badges, and a one-line impact statement for each.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
@@ -79,45 +157,6 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
-## 🧰 Tech Stack
-
-<div align="center">
-
-**Languages, ML & Tools**
-
-<img src="https://skillicons.dev/icons?i=python,java,c,mysql,tensorflow,pytorch,mongodb,figma,git,github&perline=10" />
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Data Science**
-
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black"/>
-
-</td>
-<td valign="top" width="50%">
-
-**Core Languages**
-
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -126,7 +165,7 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
 
 <sub>⚙️ Needs the one-time GitHub Actions setup (snake.yml) to appear — see the workflow file provided separately.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -147,7 +186,7 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
   <img src="https://github-profile-trophy.vercel.app/?username=Lalithkrish06&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
 ## ✍️ Dev Quote
 
