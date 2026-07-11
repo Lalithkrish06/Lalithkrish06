@@ -199,26 +199,50 @@ Modern job discovery platform connecting professionals with employers through ad
 
 </div>
 
-## 📊 GitHub Analytics
+<div align="center">
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lalithkrish06&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkrish06&layout=compact&theme=radical&hide_border=true"/>
+# 📊 GitHub Analytics
+
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lalithkrish06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalithkrish06&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Lalithkrish06&theme=radical&hide_border=true" alt="streak stats"/>
+<p>
+  <img width="850" src="https://streak-stats.demolab.com?user=Lalithkrish06&theme=github-dark-blue&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithkrish06&theme=react-dark&hide_border=true" alt="activity graph"/>
+<p>
+  <img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Lalithkrish06&theme=github-dark&hide_border=true&area=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lalithkrish06&theme=radical&no-frame=true&row=1&column=7" alt="trophies"/>
+<br>
+
+# 🐍 Contribution Activity
+
+> *Every contribution is another step toward becoming a better engineer.*
+
+<p>
+  <img width="100%" src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
+<br>
+
+### 💻 Coding Journey
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lalithkrish06&theme=github_dark"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lalithkrish06&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lalithkrish06&theme=github_dark"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E88E5,100:0B1F3A&height=3"/>
+
+</div>
 
 ## 💭 Developer Mindset
 
