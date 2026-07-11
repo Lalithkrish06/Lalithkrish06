@@ -248,13 +248,17 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <div align="center">
 
-### 🚀 *"I don't just build projects.*
+### 🚀 Daily Developer Inspiration
 
-### *I build intelligent solutions that solve real-world problems through AI, data, and modern software engineering."*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true"/>
+
+<br>
+
+<i>💡 Every day is another opportunity to learn, build, and grow as an engineer.</i>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E88E5,100:0B1F3A&height=3"/>
 
 ## 🤝 Let's Connect
 
