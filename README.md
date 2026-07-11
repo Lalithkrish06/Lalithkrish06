@@ -124,7 +124,7 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
   <img src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 </p>
 
-<sub>⚙️ This animated snake needs a one-time GitHub Actions setup — see the workflow file provided separately.</sub>
+<sub>⚙️ Needs the one-time GitHub Actions setup (snake.yml) to appear — see the workflow file provided separately.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
@@ -136,7 +136,7 @@ philosophy: "Curiosity, discipline, and a builder's mindset"
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lalithkrish06&theme=radical&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Lalithkrish06&theme=radical&hide_border=true" alt="streak stats"/>
 </p>
 
 <p align="center">
