@@ -183,15 +183,21 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-</p>
+## 🐍 GitHub Contribution Graph
 
-<sub>⚙️ Needs the one-time GitHub Actions setup (snake.yml) to appear — see the workflow file provided separately.</sub>
+> *Consistency beats intensity. Every commit is a step toward mastery.*
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+
+<br>
+
+⭐ **Building AI • Solving Problems • Learning Every Day**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E88E5,100:0B1F3A&height=3"/>
+
+</div>
 
 ## 📊 GitHub Analytics
 
