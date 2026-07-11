@@ -1,45 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:0B1F3A&height=220&section=header&text=LALITH%20KRISH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Science%20Undergraduate%20%7C%20Building%20Real-World%20AI%20Solutions&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:0B1F3A&height=230&section=header&text=LALITH%20KRISH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Data%20Science%20Student%20%7C%20Building%20Real-World%20AI%20Solutions&descAlignY=58&descSize=18"/>
 
-<br><br><br>
+### AI Engineer • Data Science Undergraduate • India 🇮🇳
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+Solutions;Machine+Learning+%7C+Data+Science;Open+to+Internships+%26+Entry-Level+Roles;Always+Learning.+Always+Building."/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1E88E5&center=true&vCenter=true&width=900&lines=Building+AI+Products+for+Real-World+Problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+React;Open+to+Internships+and+Entry-Level+Opportunities;Always+Learning.+Always+Building." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Lalithkrish06&label=Profile%20Views&color=1E88E5&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Lalithkrish06?label=Followers&style=for-the-badge&color=1E88E5"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/Lalithkrish06?style=for-the-badge&label=FOLLOWERS&color=1E90FF"/>
-
-<img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-brightgreen?style=for-the-badge"/>
-
-<br><br><br>
-
 <a href="https://lalithkportfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-1E88E5?style=for-the-badge"/>
 </a>
 
 <a href="mailto:lalithkrish2006@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📧%20Email-Contact-EA4335?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/lalithkrish-data">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/lalithkrish-data">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Lalithkrish06">
-<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 💭 Developer Mindset
+# 👋 About Me
 
-> *"Building AI-powered solutions that solve real-world problems through intelligent software engineering."* 🚀
+```yaml
+Name: Lalith Krish
+Role: AI & Data Science Undergraduate
+Location: Tamil Nadu, India
+
+Currently Learning:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Data Engineering
+
+Interested In:
+  - Artificial Intelligence
+  - Data Analytics
+  - Full Stack Development
+  - Intelligent Automation
+
+Goal:
+  Build impactful AI applications that solve real-world problems.
+```
 
 ---
 
+## 💭 Developer Mindset
+
+> **"Building AI-powered solutions that solve real-world problems through intelligent software engineering."** 🚀
+
+---
 ## 🎯 About Me
 
 <table>
