@@ -100,21 +100,60 @@ I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world 
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 📌 Project Name
-Short one-line description of what it does and the problem it solves.
+<td width="33%">
 
-`Python` `Pandas` `Scikit-learn`
+### 🩺 MediGuide AI
 
-<a href="#"><img src="https://img.shields.io/badge/View%20Repo-2E9EF7?style=flat-square&logo=github&logoColor=white"/></a>
+AI-powered healthcare assistant featuring symptom analysis, prescription scanning, health tracking, and an intelligent medical chatbot for smarter healthcare support.
+
+`Flutter` `Supabase` `AI` `OCR`
+
+<a href="https://github.com/Lalithkrish06/MediGuide-AI">
+<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="50%">
+
+<td width="33%">
+
+### 🚦 TrafficMind AI
+
+Deep Learning-powered traffic congestion prediction system with interactive heatmaps, real-time analytics, and intelligent route insights for smart city transportation.
+
+`Python` `LSTM` `Flask` `Machine Learning`
+
+<a href="https://github.com/Lalithkrish06/TrafficMind_AI">
+<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="33%">
+
+### 💼 HirelyHub
+
+Modern job discovery platform connecting professionals with employers through advanced search, company profiles, and a responsive recruitment experience.
+
+`React` `TypeScript` `Tailwind CSS` `Vite`
+
+<a href="https://github.com/Lalithkrish06/HirelyHub">
+<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<sub>💡 Building AI-powered, data-driven, and user-centric applications that solve real-world challenges through modern software engineering.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
 ### 📌 Project Name
 Short one-line description of what it does and the problem it solves.
