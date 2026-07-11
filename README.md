@@ -226,15 +226,6 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <br>
 
-# 🐍 Contribution Activity
-
-> *Every contribution is another step toward becoming a better engineer.*
-
-<p>
-  <img width="100%" src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-</p>
-
-<br>
 
 ### 💻 Coding Journey
 
