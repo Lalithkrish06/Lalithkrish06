@@ -40,8 +40,6 @@
 I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world data into clear, actionable insight. I'm actively looking for **internship and entry-level opportunities** in Data Science, Analytics, or Machine Learning.
 
 
-
-
 - 🎓 Building a strong foundation in statistics, analytical thinking, and applied ML
 - 🛠️ Comfortable across the full data pipeline — **collection → cleaning → modeling → visualization → deployment**
 - 📊 Skilled at uncovering patterns and trends that translate into business decisions
