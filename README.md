@@ -155,20 +155,6 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
-### 📌 Project Name
-Short one-line description of what it does and the problem it solves.
-
-`TensorFlow` `Flask` `SQL`
-
-<a href="#"><img src="https://img.shields.io/badge/View%20Repo-2E9EF7?style=flat-square&logo=github&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<sub>💡 Swap in your top 2–4 pinned repos here — link, stack badges, and a one-line impact statement for each.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
 ## 📜 Certifications
 
