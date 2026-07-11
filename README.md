@@ -1,9 +1,19 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:0B1F3A&height=230&section=header&text=LALITH%20KRISH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Data%20Science%20Student%20%7C%20Building%20Real-World%20AI%20Solutions&descAlignY=58&descSize=18"/>
+...
+<div align="center">
 
-### AI Engineer • Data Science Undergraduate student 
+<h2>
+💡 Engineering Intelligent Solutions for Real-World Impact
+</h2>
 
+<p>
+Building scalable AI applications, data-driven systems, and modern software that solve meaningful real-world challenges.
+</p>
+
+</div>
+....
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1E88E5&center=true&vCenter=true&width=900&lines=Building+AI+Products+for+Real-World+Problems;Machine+Learning+%7C+Deep+Learning+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+React;Open+to+Internships+and+Entry-Level+Opportunities;Always+Learning.+Always+Building." />
 
 <br>
