@@ -207,15 +207,17 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
-## ✍️ Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
-</p>
-
-<br/>
+## 💭 Developer Mindset
 
 <div align="center">
+
+### 🚀 *"I don't just build projects.*
+
+### *I build intelligent solutions that solve real-world problems through AI, data, and modern software engineering."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
 ## 🤝 Let's Connect
 
