@@ -1,41 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:0B1F3A&height=220&section=header&text=Lalith%20Krish&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Data%20Science%20Undergraduate%20%7C%20Building%20Real-World%20AI%20Solutions&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:0B1F3A&height=220&section=header&text=LALITH%20KRISH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Science%20Undergraduate%20%7C%20Building%20Real-World%20AI%20Solutions&descAlignY=58&descSize=20"/>
 
-<img src="https://raw.githubusercontent.com/Lalithkrish06/Lalithkrish06/main/profile.webp" width="170" alt="Lalith Krish"/>
+<br><br><br>
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Developer;Full+Stack+AI+Developer;Building+Real-World+AI+Projects;Open+to+Internships+%26+Entry-Level+Roles" />
-
-
-<img src="https://img.shields.io/github/followers/Lalithkrish06?label=Followers&style=for-the-badge&color=2E9EF7"/>
-
-<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Building+Real-World+AI+Solutions;Machine+Learning+%7C+Data+Science;Open+to+Internships+%26+Entry-Level+Roles;Always+Learning.+Always+Building."/>
 
 <br><br>
+
+<img src="https://img.shields.io/github/followers/Lalithkrish06?style=for-the-badge&label=FOLLOWERS&color=1E90FF"/>
+
+<img src="https://img.shields.io/badge/Open%20To-INTERNSHIPS-brightgreen?style=for-the-badge"/>
+
+<br><br><br>
 
 <a href="https://lalithkportfolio.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2E9EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-1E90FF?style=for-the-badge"/>
 </a>
 
 <a href="mailto:lalithkrish2006@gmail.com">
-<img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/lalithkrish-data">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/Lalithkrish06">
-<img src="https://img.shields.io/badge/💻%20GitHub-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## 💭 Developer Mindset
+
+> *"Building AI-powered solutions that solve real-world problems through intelligent software engineering."* 🚀
+
+---
 
 ## 🎯 About Me
 
