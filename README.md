@@ -1,4 +1,4 @@
-<iframe href="https://lalithkportfolio.netlify.app/"></iframe>
+<iframe src="https://lalithkportfolio.netlify.app/"></iframe>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E88E5,100:0B1F3A&height=230&section=header&text=LALITH%20KRISH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=AI%20Engineer%20%7C%20Data%20Science%20Student%20%7C%20Building%20Real-World%20AI%20Solutions&descAlignY=58&descSize=18"/>
