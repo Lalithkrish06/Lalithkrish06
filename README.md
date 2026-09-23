@@ -272,3 +272,22 @@ I'm actively looking for **internship and entry-level opportunities** in Data Sc
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2E9EF7&height=120&section=footer" width="100%"/>
 
 </div>
+
+
+### 🩺 MediGuide AI
+
+AI-powered healthcare assistant featuring **symptom analysis, prescription scanning, health tracking, and an intelligent medical chatbot** for smarter and more accessible healthcare support.
+
+`Flutter` `Supabase` `AI` `OCR`
+
+<a href="https://lalimedicare.netlify.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lalithkrish06/MediGuide-AI">
+<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="33%">
+
