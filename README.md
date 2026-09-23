@@ -42,25 +42,28 @@ Building scalable AI applications, data-driven systems, and modern software that
 <img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://leetcode.com/u/lalithkrish06/">
+<img src="https://img.shields.io/badge/🧩%20LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="100%">
 
-I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world data into clear, actionable insight. I'm actively looking for **internship and entry-level opportunities** in Data Science, Analytics, or Machine Learning.
+**AI & Data Science undergraduate** focused on building intelligent, data-driven applications and production-oriented software solutions.
 
-
-- 🎓 Building a strong foundation in statistics, analytical thinking, and applied ML
-- 🛠️ Comfortable across the full data pipeline — **collection → cleaning → modeling → visualization → deployment**
-- 📊 Skilled at uncovering patterns and trends that translate into business decisions
-- 🤝 Strong communicator who bridges technical work and non-technical stakeholders
-- 🌱 Currently leveling up in machine learning, GenAI tools, and data engineering practices
-- 🌍 Open to roles in **Data Science · Data Analytics · Machine Learning · Software Development**
+- 🤖 **AI & Machine Learning** — Developing predictive systems using Python, Scikit-learn, Deep Learning, and GenAI technologies
+- 💻 **Software Development** — Building full-stack applications with Java, React, Flask, FastAPI, MySQL, and modern web technologies
+- 📊 **Data & Analytics** — Transforming raw data into meaningful insights through data processing, visualization, and analytical modeling
+- 🚀 **Project Experience** — Developed solutions across **Healthcare, Smart Examination, Traffic Intelligence, and Satellite Thermal Analysis**
+- 🧩 **Engineering Focus** — Interested in scalable systems, intelligent automation, real-world problem solving, and AI-powered products
+- 🎯 **Career Focus** — Seeking opportunities in **AI Engineering, Machine Learning, Data Science, and Software Development**
 
 </td>
 </tr>
@@ -68,7 +71,7 @@ I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world 
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -116,49 +119,61 @@ I'm an **AI & Data Science undergraduate** who enjoys turning messy, real-world 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🩺 MediGuide AI
+### 🩺 MediCare
 
-AI-powered healthcare assistant featuring symptom analysis, prescription scanning, health tracking, and an intelligent medical chatbot for smarter healthcare support.
+AI-powered medical assistance platform designed to streamline patient interactions through secure authentication, appointment management, and medical report access.
 
-`Flutter` `Supabase` `AI` `OCR`
+`Java Servlets` `Bootstrap` `MySQL`
 
 <a href="https://github.com/Lalithkrish06/MediGuide-AI">
-<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://lalimedicare.netlify.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2E9EF7?style=flat-square&logo=netlify&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🚦 TrafficMind AI
+### 🧬 ExamOptiGA
 
-Deep Learning-powered traffic congestion prediction system with interactive heatmaps, real-time analytics, and intelligent route insights for smart city transportation.
+AI-powered examination management platform that uses Genetic Algorithms to optimize university timetables, hall allocation, invigilator scheduling, and seating arrangements while minimizing scheduling conflicts.
 
-`Python` `LSTM` `Flask` `Machine Learning`
+`React` `Genetic Algorithm` `TypeScript` `NumPy`
 
-<a href="https://github.com/Lalithkrish06/TrafficMind_AI">
-<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/Lalithkrish06/LaliExamOptiGA">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://laliexamoptiga.netlify.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2E9EF7?style=flat-square&logo=netlify&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-### 💼 HirelyHub
+### 🛰️ FireWatch AI
 
-Modern job discovery platform connecting professionals with employers through advanced search, company profiles, and a responsive recruitment experience.
+AI-driven thermal intelligence platform that analyzes satellite fire observations and geospatial data to identify, classify, and investigate potential industrial fires and persistent thermal sources.
 
-`React` `TypeScript` `Tailwind CSS` `Vite`
+`Python` `GIS` `Satellite Data` `FastAPI`
 
-<a href="https://github.com/Lalithkrish06/HirelyHub">
-<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/Lalithkrish06/FireWatch">
+<img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://lalifirewatchai.netlify.app/">
+<img src="https://img.shields.io/badge/Live-Demo-2E9EF7?style=flat-square&logo=netlify&logoColor=white"/>
 </a>
 
 </td>
@@ -166,32 +181,39 @@ Modern job discovery platform connecting professionals with employers through ad
 </tr>
 </table>
 
-<sub>💡 Building AI-powered, data-driven, and user-centric applications that solve real-world challenges through modern software engineering.</sub>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:2E9EF7,100:0B1F3A&height=3&width=100%25" width="100%"/>
+---
 
+## 🏆 Certifications
 
-## 📜 Certifications
-
-<table>
+<table width="100%">
 <tr>
-<td width="15%" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tata_logo.svg/200px-Tata_logo.svg.png" width="60"/>
+
+<td width="100%" valign="middle">
+
+### 🤖 GenAI Powered Data Analytics Job Simulation
+
+**Tata — via Forage** &nbsp;•&nbsp; **June 2026**
+
+🔹 Exploratory Data Analysis & Risk Profiling &nbsp;•&nbsp;
+🔹 Predicting Delinquency with AI  
+🔹 Business Reporting & Data Storytelling &nbsp;•&nbsp;
+🔹 AI-Driven Collections Strategy
+
+<a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_rajmKifLEbE9uyLGt_1782526948788_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/>
+</a>
+
 </td>
-<td width="85%">
-  <b>GenAI Powered Data Analytics Job Simulation</b> — Tata (via Forage)<br/>
-  <sub>Issued June 2026</sub><br/>
-  ✅ Exploratory data analysis & risk profiling &nbsp;|&nbsp; ✅ Predicting delinquency with AI<br/>
-  ✅ Business reporting & data storytelling &nbsp;|&nbsp; ✅ AI-driven collections strategy
-  <br/>
-  <a href="https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_rajmKifLEbE9uyLGt_1782526948788_completion_certificate.pdf"><img src="https://img.shields.io/badge/View%20Certificate-2E9EF7?style=flat-square&logo=googledrive&logoColor=white"/></a>
-</td>
+
 </tr>
 </table>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0B1F3A,100:2E9EF7&height=3&width=100%25" width="100%"/>
 
-<div align="center">
 
 ## 🐍 GitHub Contribution Graph
 
@@ -209,7 +231,7 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <div align="center">
 
-# 📊 GitHub Analytics
+# 📡 GitHub Analytics
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lalithkrish06&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
@@ -247,7 +269,7 @@ Modern job discovery platform connecting professionals with employers through ad
 
 <div align="center">
 
-### 🚀 Daily Developer Inspiration
+### 🌱 Daily Developer Inspiration
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark&border=true"/>
 
@@ -261,33 +283,26 @@ Modern job discovery platform connecting professionals with employers through ad
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **internship and entry-level opportunities** in Data Science / Machine Learning. If you're hiring or just want to chat about AI — reach out!
+I'm open to **internship and entry-level opportunities** in **AI Engineering, Machine Learning, Data Science, and Software Development**.  
+Interested in my work or have an opportunity? Let's connect.
 
-<a href="https://lalithkportfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:lalithkrish2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/lalithkrish-data"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://lalithkportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:lalithkrish2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/lalithkrish-data">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/lalithkrish06/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-⭐ *Thanks for stopping by — feel free to explore my pinned repos below!*
+<br><br>
+
+⭐ *Thanks for visiting — explore my projects, contributions, and coding journey.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:2E9EF7&height=120&section=footer" width="100%"/>
 
-</div>
-
-
-### 🩺 MediGuide AI
-
-AI-powered healthcare assistant featuring **symptom analysis, prescription scanning, health tracking, and an intelligent medical chatbot** for smarter and more accessible healthcare support.
-
-`Flutter` `Supabase` `AI` `OCR`
-
-<a href="https://lalimedicare.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=flat-square&logo=netlify&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Lalithkrish06/MediGuide-AI">
-<img src="https://img.shields.io/badge/View%20Repository-2E9EF7?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-<td width="33%">
 
