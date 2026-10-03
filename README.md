@@ -26,7 +26,7 @@ Building scalable AI applications, data-driven systems, and modern software that
 
 <br><br>
 
-<a href="https://lalithkportfolio.netlify.app">
+<a href="https://lalithkrish.dev">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-1E88E5?style=for-the-badge"/>
 </a>
 
@@ -286,8 +286,8 @@ AI-driven thermal intelligence platform that analyzes satellite fire observation
 I'm open to **internship and entry-level opportunities** in **AI Engineering, Machine Learning, Data Science, and Software Development**.  
 Interested in my work or have an opportunity? Let's connect.
 
-<a href="https://lalithkportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://lalithkrish.dev">
+<img src="https://img.shields.io/badge/🌐%20lalithkrish.dev-Visit-1E88E5?style=for-the-badge"/>
 </a>
 <a href="mailto:lalithkrish2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
